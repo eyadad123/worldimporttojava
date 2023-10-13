@@ -22,6 +22,6 @@ To Import The World Simply Right Click On The World Folder Highlight Send To The
 
 
         
-**Import Your World Easily Made By Eyadad123 Pre-Realase**
+**Import Your World Easily Made By Eyadad123 Latest Release**
 
 **USE AT YOUR OWN RISK**
