@@ -25,3 +25,12 @@ To Import The World Simply Right Click On The World Folder Highlight Send To The
 **Import Your World Easily Made By Eyadad123 Latest Release**
 
 **USE AT YOUR OWN RISK**
+
+
+
+
+
+
+
+
+If You Changed The Minecraft Folder Go To The "Make Your Own" Branch To Make This Work
