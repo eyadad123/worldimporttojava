@@ -33,4 +33,4 @@ To Import The World Simply Right Click On The World Folder Highlight Send To The
 
 
 
-If You Changed The Minecraft Folder Go To The "Make Your Own" Branch To Make This Work
+If You Changed The Minecraft Folder Go To The "Make Your Own" Project To Make This Work https://github.com/eyadad123/Make-Your-Own/
